@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.img {
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+.info {
+    margin-left: 60px;
+    margin-top: 1rem;
+    font-family: url("./images/fonts/Poppins-SemiBold.ttf");
+}
+
+.price {
+    margin-top: 70px;
+    font-family: url("./images/fonts/Poppins-Light.ttf");
+}
+
+.allitem {
+    position: relative;
+    width: 327px;
+    margin: 0 auto;
+    background: rgba(215, 208, 208, 0.087);
+    padding: 20px 22px;
+    border: 1px solid;
+    border-top: 25px;
+    border-radius: 12px;
+    border-top-color: rgba(139, 128, 128, 0.4);
+    border-left-color: rgba(80, 74, 74, 0.4);
+    border-bottom-color: rgba(218, 206, 206, 0.346);
+    border-right-color: rgba(60, 60, 60, 0.31);
+}
+
+.satinal {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}

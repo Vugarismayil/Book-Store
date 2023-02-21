@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head {
+    text-align: center;
+    font-family: url("./fonts/Lobster-Regular.ttf");
+    color: #109E97;
+}
+
+.shtinfo {
+    margin-top: 20px;
+    margin-left: 8px;
+
+}
+
+.newprice {
+    color: #008000;
+    font-size: 29px;
+    margin-left: 8px;
+}
+
+.oldprice {
+    color: #FF0000;
+    font-size: 18px;
+}
+
+.photo {
+    margin: 18px;
+}
+
+.info {
+    background-color: #000000;
+    color: aliceblue;
+    padding: 60px 10px -20px;
+
+}
+
+.info-name {
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+    padding: 10px;
+    margin-left: 10px;
+    width: 98rem;
+
+}
+.comment{
+    margin: 30px;
+}
+.youname{
+    margin-left: 50px;
+}
+.form input{
+    margin-left: 20px;
+    
+}
+.question{
+   margin-top: 25px;
+}
+.qstn{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.lang{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#quantity{
+    margin-top: 5px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.text{
+    padding: 100px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+.sumbit{
+    background-color: #008000;
+    color: #fff;
+    margin: 10px 10px 10px;
+    padding: 18px;
+    margin-left: 100px;
+    border-radius: 10px;
+    width: -80px;
+    
+}
+.end{
+    background-color: #109e97;
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.com{
+    margin-left: 120px;
+}
+#links{
+   accent-color: black;
+}
